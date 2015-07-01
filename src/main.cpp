@@ -4,7 +4,7 @@
 #include <string>
 #include <cmath>
 #include <SDL2/SDL.h>
-#include "../lib/sugarlab/Game/Game.h"
+#include <sugarlab/Game.hpp>
 using namespace std;
 
 int main() {
